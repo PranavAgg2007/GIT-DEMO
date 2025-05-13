@@ -1,4 +1,4 @@
 # GIT-DEMO
 first repository
 <br>
-Author-Pranav Aggarwal
+Author-Pranav Aggarwal IIITD
